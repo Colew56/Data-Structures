@@ -1,0 +1,7 @@
+++A-*^BCD/+EF*GHI
++-^ABC*D**EFG
+**-AB+CD/EF
++AB
++*AB-CD
+-+AB*CD
+*+AB-CD

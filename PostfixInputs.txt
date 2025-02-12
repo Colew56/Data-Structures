@@ -1,0 +1,15 @@
+AB+C-
+ABC+-
+AB-C+DEF-+^
+ABCDE-+^*EF*-
+AB+CD^ F–G//HI+JK-
+AB+
+AB*CD-+
+AB*CD-+
+AB+CD-*
+ABC*+D-
+ABC*+D*E-
+ABCD+*+
+ABCD*-+E+
+ABC+DE+*+
+ABC*+DE*-
